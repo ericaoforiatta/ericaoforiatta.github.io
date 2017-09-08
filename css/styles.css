@@ -1,23 +1,25 @@
 h1 {
-  color: darkred;
+  color: black;
   text-align: center;
 }
 
 h2
 {color:
-  red;}
+  white;}
 
 h3
 {color:
-   green;}
+   purple;}
 
+   h4 {
+     color: darkred;
+     text-align: center;
+   }
 
 p
 {color: black;
 background-color: green;
 }
-
-
 
 img
 {
@@ -29,3 +31,12 @@ img
     width: 350px;
     float: center;
   }
+  .table {
+    border: 2px solid black;
+    text-align: center;
+    padding: 30px;
+    margin: auto;
+    background-color: white;
+  }
+body
+{background-color: grey;}
