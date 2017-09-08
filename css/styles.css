@@ -3,30 +3,29 @@ h1 {
   text-align: center;
 }
 
-h2 {
-  font-style: italic;
-  text-align: left;
-  color: red;
+h2
+{color:
+  red;}
+
+h3
+{color:
+   green;}
+
+
+p
+{color: black;
+background-color: green;
 }
 
-p {
-  color: crimson;
-}
 
-html
-{background-color: purple;
-}
-strong
-{
-  font-style: italic;
-}
-em
-{
-  font-weight: bold;
-}
+
 img
 {
     display: block;
     margin: auto;
     width: 40%;
 }
+.column {
+    width: 350px;
+    float: center;
+  }
